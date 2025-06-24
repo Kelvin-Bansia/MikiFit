@@ -1,0 +1,13 @@
+----------------------------------------------------------
+                         utils
+----------------------------------------------------------
+
+Class: MediaManager
+-------------------
+Beheert invoerapparaten (camera en microfoons). 
+Gebruikers kunnen handmatig een apparaat kiezen of automatisch een geschikte invoerbron laten detecteren.
+
+Requirements:
+- sounddevice         (voor ophalen van audio-invoerapparaten)
+- opencv-python (cv2) (voor toegang tot videobronnen zoals webcams)
+
