@@ -13,7 +13,7 @@ De app is bedoeld om gebruikers te adviseren in het selecteren van passende outf
 - Camera-toegang om foto’s te maken voor visuele beoordeling van stijl
 
 3. Over dit project
-Dit project is onderdeel van mijn HomeLab-serverproject en bedoeld
+- Dit project is onderdeel van mijn HomeLab-serverproject en bedoeld
 als persoonlijk hulpmiddel.
 
 Meer info: www.kelvinscodelab.nl
